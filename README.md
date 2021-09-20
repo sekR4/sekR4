@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">a Data Scientist from Hamburg, Germany</h3>
 
-- 🔭 I’m currently working on a project combining **Speech Recognition and Named Entity Recognition**
+- 🔭 I’m currently working on a geocoding project using Django and OpenStreetMap
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently studying for a Nanodegree as a Machine Learning Engineer on AWS
 
 - 👨‍💻 All of my public projects are available at [https://github.com/sekR4?tab=repositories](https://github.com/sekR4?tab=repositories)
 
