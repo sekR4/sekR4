@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a geocoding project using Django and OpenStreetMap
 
-- 🌱 I’m currently studying for a Nanodegree as a Machine Learning Engineer on AWS
+- 🌱 I’m currently studying for a Nanodegree as a [Machine Learning Engineer on AWS](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 
 - 👨‍💻 All of my public projects are available at [https://github.com/sekR4?tab=repositories](https://github.com/sekR4?tab=repositories)
 
