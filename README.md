@@ -6,7 +6,7 @@
 
 ### 🔬 What I Do
 - **Senior Data & AI Engineer** with a background as a Senior Data Scientist
-- Building end-to-end AI solutions from ETL pipelines to production APIs
+- Building end-to-end AI solutions from ETL pipelines to production APIs (and sometimes a bit frontend)
 - Translating complex business problems into scalable data & AI architectures
 - Mentoring junior teammates and actively sharing knowledge across the company
 - Making technical concepts accessible to non-technical stakeholders
