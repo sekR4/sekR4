@@ -6,7 +6,7 @@
 
 ### 🔬 What I Do
 - **Senior Data & AI Engineer** with a background as a Senior Data Scientist
-- Building end-to-end AI solutions from ETL pipelines to production APIs (and sometimes a bit frontend)
+- Building end-to-end AI solutions from ETL pipelines to production APIs (+ sometimes a bit frontend)
 - Translating complex business problems into scalable data & AI architectures
 - Mentoring junior teammates and actively sharing knowledge across the company
 - Making technical concepts accessible to non-technical stakeholders
@@ -31,8 +31,8 @@ data_engineering = ["Sling", "Airflow", "dbt", "Kafka", "Apache Spark"]
 **Specialized Skills**
 - 🤖 **GenAI & Vector Search:** RAG systems, vector databases, retrieval architectures
 - ⚡ **API Development:** FastAPI, REST API design
-- 📊 **Data Visualization:** Evidence, AWS QuickSight, Tableau
 - 🔄 **Automation:** CI/CD pipelines, workflow orchestration
+- 📊 **Data Visualization:** Evidence, AWS QuickSight, Tableau
 
 ---
 
@@ -46,8 +46,8 @@ Building a comprehensive translation system with:
 - End-to-end MVP successfully delivered
 
 #### 📈 **ML-Powered Reversal Prediction Model**
-- Built first ML prototype to predict reversals using domain expertise
-- Combined multiple data sources with XGBoost
+- Built first ML prototype in the company I worked for to predict reversals using domain expertise
+- Combined multiple data sources, derived features & targets (labels) and made XGBoost do its magic
 - Leveraged cross-functional knowledge (Data Engineering + Data Science)
 
 #### ⚡ **MLOps Pipeline Optimization**
